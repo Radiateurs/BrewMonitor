@@ -1,3 +1,6 @@
 [submodule "BrewMonitorBackend"]
 	path = BrewMonitorBackend
 	url = https://github.com/Radiateurs/BrewMonitorBackend.git
+[submodule "BrewMonitorFrontend"]
+	path = BrewMonitorFrontend
+	url = https://github.com/Radiateurs/BrewMonitorFrontend.git
